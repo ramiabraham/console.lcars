@@ -21,6 +21,4 @@
 ### Usage:
 
 - Clone or download
-- Call
-### `console.lcars( your_stuff_here )`
-when/wherever you'd like.
+- Call `console.lcars( your_stuff_here )` when/wherever you'd like.
