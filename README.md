@@ -1,4 +1,5 @@
-# LCARS Log
+# console.lcars:
+## The tasteful ascii lcars console.log.
 
 **LCARS Log** enhances the console.log by applying *(via `.apply`)* an [LCARS](http://en.wikipedia.org/wiki/LCARS) ascii 'wrap' to messages.
 
