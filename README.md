@@ -8,13 +8,13 @@
 - Tasteful LCARS ascii design for your browser console
 - United Federation of Planets ascii emblem
 - `console.lcars` messages prepended with one of seven random messages:
-  -STARFLEET COMMAND PRIORITY 1 MESSAGE
-  -SPECIAL MESSAGE FROM STARBASE `random 3-digit int`
-  -ALERT FORM CHIEF ENGINEER
-  -ERROR IN ISOLINEAR CHIPS
-  -HEISENBERG COMPENSATOR STATUS
-  -WARP CORE INTERMIX STATUS
-  -DILITHIUM MATRIX ALERT
+   -STARFLEET COMMAND PRIORITY 1 MESSAGE
+   -SPECIAL MESSAGE FROM STARBASE `random 3-digit int`
+   -ALERT FORM CHIEF ENGINEER
+   -ERROR IN ISOLINEAR CHIPS
+   -HEISENBERG COMPENSATOR STATUS
+   -WARP CORE INTERMIX STATUS
+   -DILITHIUM MATRIX ALERT
 
 ### Screenshot:
 ![screenshot of lcars_Log](http://i.imgur.com/ctHekKF.png "screenshot of lcars_Log")
